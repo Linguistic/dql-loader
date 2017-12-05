@@ -5,7 +5,7 @@
   "main": "index.js",
   "license": "MIT",
   "peerDependencies": {
-    "dql": "^0.3.0"
+    "dql": "^0.3.1"
   },
   "dependencies": {
     "loader-utils": "^1.1.0",
