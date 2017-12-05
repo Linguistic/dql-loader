@@ -1,0 +1,10 @@
+{
+  "name": "dql-loader",
+  "version": "0.0.1",
+  "description": "Webpack loader for .datql/.dql files",
+  "main": "index.js",
+  "license": "MIT",
+  "peerDependencies": {
+    "dql": "^0.3.0"
+  }
+}
