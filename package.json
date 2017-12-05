@@ -6,5 +6,9 @@
   "license": "MIT",
   "peerDependencies": {
     "dql": "^0.3.0"
+  },
+  "dependencies": {
+    "loader-utils": "^1.1.0",
+    "safe-eval": "^0.3.0"
   }
 }
