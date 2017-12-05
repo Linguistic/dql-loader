@@ -1,5 +1,5 @@
 DatQL Webpack Loader
---------------------
+====================
 Allows you to `require()` vanilla [DatQL](https://github.com/golinguistic/dql) (.dql / .datql) files. Usage with Webpack is simple:
 
 ```$javascript
