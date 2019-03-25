@@ -5,10 +5,9 @@
   "main": "index.js",
   "license": "MIT",
   "peerDependencies": {
-    "dql": "^0.3.1"
+    "dql": "^0.4.1"
   },
   "dependencies": {
-    "loader-utils": "^1.1.0",
-    "safe-eval": "^0.3.0"
+    "loader-utils": "^1.2.3"
   }
 }
